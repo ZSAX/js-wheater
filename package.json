@@ -1,0 +1,21 @@
+{
+  "name": "ndfirebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-toggle": "^2.2.2",
+    "cheerio": "^1.0.0-rc.3",
+    "firebase": "^5.11.0",
+    "firebase-admin": "^7.3.0",
+    "firebase-app": "0.0.1",
+    "request": "^2.88.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "description": ""
+}
